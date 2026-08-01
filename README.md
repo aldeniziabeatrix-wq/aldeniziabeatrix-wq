@@ -13,6 +13,8 @@
 
 # Sobre mim
 
+💜 **Estudante de Ciência de Dados**
+
 💜 **Tecnologa em Análise e Desenvolvimento de Sistemas**.
 
 💜 **Estou em busca da minha primeira oportunidade como Desenvolvedora**.
